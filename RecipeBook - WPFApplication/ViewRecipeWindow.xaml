@@ -1,0 +1,74 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecipeBook"
+        xmlns:sf="http://schemas.syncfusion.com/wpf"
+        xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
+        x:Class="RecipeBook.ViewRecipeWindow" ResizeMode="CanMinimize"
+        mc:Ignorable="d"
+        Title="View/Edit Recipe Window" Height="760" Width="1100" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image x:Name="BackgroundImage" Source="Images\ViewImage.jpg" Stretch="UniformToFill" Opacity="0.8"/>
+        <Label x:Name="lblPage" Content="Page: " HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" FontSize="26" Margin="934,10,0,0" Width="116"/>
+        <Label x:Name="lblRecipeName" Content="Name:" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" FontSize="26" Margin="85,75,0,0"/>
+        <TextBox x:Name="txtRecipeName" HorizontalAlignment="Left" Height="35" TextWrapping="Wrap" VerticalAlignment="Top" Width="337" Margin="198,85,0,0" FontSize="23" BorderThickness="2" IsReadOnly="True" TextChanged="TxtRecipeName_TextChanged" LostKeyboardFocus="TxtRecipeName_LostKeyboardFocus" AcceptsReturn="True"/>
+        <Label x:Name="lblCookTime" Content="Cook Time:" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" FontSize="26" Margin="689,85,0,0"/>
+        <TextBox x:Name="txtCookTime" HorizontalAlignment="Left" Height="35" TextWrapping="Wrap" VerticalAlignment="Top" Width="83" Margin="854,95,0,0" FontSize="23" BorderThickness="2" TextAlignment="Right" IsReadOnly="True" TextChanged="TxtCookTime_TextChanged" LostKeyboardFocus="TxtCookTime_LostKeyboardFocus" AcceptsReturn="True"/>
+        <Label x:Name="lblCookTime2" Content="mins" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24" Margin="942,89,0,0"/>
+        <Label x:Name="lblCookTemp" Content="Cook Temp:" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" FontSize="26" Margin="689,136,0,0"/>
+        <TextBox x:Name="txtCookTemp" HorizontalAlignment="Left" Height="35" TextWrapping="Wrap" VerticalAlignment="Top" Width="83" Margin="854,146,0,0" FontSize="23" BorderThickness="2" TextAlignment="Right" IsReadOnly="True" TextChanged="TxtCookTemp_TextChanged" LostKeyboardFocus="TxtCookTemp_LostKeyboardFocus" AcceptsReturn="True"/>
+        <Label x:Name="lblCookTemp2" Content="C" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24" Margin="942,139,0,0"/>
+        <Label x:Name="lblCategory" Content="Category:" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" FontSize="26" Margin="689,194,0,0"/>
+        <TextBox x:Name="txtCategory" HorizontalAlignment="Left" Height="35" TextWrapping="Wrap" VerticalAlignment="Top" Width="157" Margin="854,202,0,0" FontSize="23" BorderThickness="2" IsReadOnly="True"/>
+        <ComboBox x:Name="cmbCategory" HorizontalAlignment="Left" VerticalAlignment="Top" Width="157" Margin="854,202,0,0" FontSize="23" BorderThickness="2" Visibility="Hidden" SelectionChanged="CmbCategory_SelectionChanged"/>
+        <Label x:Name="lblMethod" Content="Method:" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" FontSize="26" Margin="85,335,0,0"/>
+        <TextBox x:Name="txtMethod" HorizontalAlignment="Left" Height="277" TextWrapping="Wrap" VerticalAlignment="Top" Width="789" FontSize="23" Margin="222,343,0,0" MaxLines="20" MaxLength="5000" BorderThickness="2" IsReadOnly="True" TextChanged="TxtMethod_TextChanged" LostKeyboardFocus="TxtMethod_LostKeyboardFocus" AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>        
+        <Label x:Name="lblIngredients" Content="Ingredients:" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" FontSize="26" Margin="85,129,0,0"/>
+        <DataGrid x:Name="dgvIngredients" HeadersVisibility="None" GridLinesVisibility="None" AutoGenerateColumns="False" FontWeight="Bold" FontSize="18" Height="174" Width="376" Margin="266,139,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Visibility="Visible" CanUserAddRows="False" CanUserDeleteRows="False" CanUserReorderColumns="False" CanUserResizeRows="False" CanUserResizeColumns="False" >
+            <DataGrid.Columns>
+                <DataGridTemplateColumn Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBox Text="{Binding Ingredient}" FontSize="16" FontWeight="Normal" IsReadOnly="True" BorderThickness="0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="60">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBox Text="{Binding Quantity}" TextAlignment="Right" FontSize="16" FontWeight="Normal" Width="60" BorderThickness="0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="80" IsReadOnly="True">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBox Text="{Binding Measure}" FontSize="16" FontWeight="Normal" IsReadOnly="True" BorderThickness="0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <syncfusion:CheckListBox x:Name="lstIngredients" HorizontalAlignment="Left" Height="174" VerticalAlignment="Top" Width="215" Margin="266,139,0,0" FontSize="14" BorderThickness="1" Visibility="Hidden" ToolTip="Check ingredients to add to recipe" Background="White" IsSelectAllEnabled="False" IsCheckOnFirstClick="False" SelectionChanged="LstIngredients_SelectionChanged" ItemChecked="LstIngredients_ItemChecked"/>
+        <Label x:Name="lblQuantity" Content="Qty:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="517,142,0,0" Width="37" Visibility="Hidden" FontWeight="Bold" FontSize="14"/>
+        <TextBox x:Name="txtQuantity" HorizontalAlignment="Left" VerticalAlignment="Top" Width="71"  Height="23" TextAlignment="Right" TextWrapping="NoWrap" Margin="559,146,0,0" Visibility="Hidden" FontSize="14" LostKeyboardFocus="TxtQuantity_LostKeyboardFocus"/>
+        <Label x:Name="lblMeasures" Content="Select Unit(s)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="517,173,0,0" Width="113" Visibility="Hidden" FontWeight="Bold" FontSize="14"/>
+        <ComboBox x:Name="cmbMeasures" HorizontalAlignment="Left" VerticalAlignment="Top" Width="113" Margin="517,202,0,0" Visibility="Hidden" ToolTip="Select unit of measure for this ingredient" BorderThickness="2" SelectionChanged="CmbMeasures_SelectionChanged"/>
+        <Label x:Name="lblAddRemove" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="305,311,0,0" Width="355" Foreground="#FFFF1D00" FontWeight="Bold" FontSize="16" Visibility="Hidden"/>
+        <Button x:Name="btnSaveIngredient" Content="Add" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Background="LightGreen" FontWeight="Bold" Click="BtnSaveIngredient_Click" Margin="535,263,0,0" Visibility="Hidden" BorderThickness="2" FontSize="16"/>
+        <Label x:Name="lblErrorMessage" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="370,620,0,0" FontSize="28" Foreground="#FFFF1D00" FontWeight="Bold" Width="480" Visibility="Hidden"/>
+        <Label x:Name="lblSuccessMessage" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="370,620,0,0" FontSize="28" Foreground="#FF23BD23" FontWeight="Bold" Width="480" Visibility="Hidden"/>
+        <Button x:Name="btnUnlike" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="750,263,0,0" Visibility="Hidden" Click="BtnUnlike_Click">
+            <Image x:Name="imgLike" Source="Images\faveStar.png" Height="50" Width="50" RenderTransformOrigin="-1.625,0.517"/>
+        </Button>
+        <Button x:Name="btnLike" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="750,263,0,0" Visibility="Hidden" Click="BtnLike_Click">
+            <Image x:Name="imgUnlike" Source="Images\emptyStar.png" Height="50" Width="50" RenderTransformOrigin="0.5,0.59"/>
+        </Button>
+        <Button x:Name="btnEdit" Content="Edit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="153" Margin="46,400,0,0" Background="Cyan" Height="56" FontWeight="Bold" FontSize="24" Click="BtnEdit_Click"/>
+        <Button x:Name="btnQuit" Content="Quit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="153" Margin="46,480,0,0" Background="#fc3425"  Height="56" FontWeight="Bold" FontSize="24" Visibility="Hidden" Click="BtnQuit_Click"/>
+        <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" VerticalAlignment="Top" Width="153" Margin="46,556,0,0" Background="LightGreen" Height="56" FontWeight="Bold" FontSize="24" Visibility="Hidden" Click="BtnSave_Click"/>
+        <Button x:Name="btnClose" Content="CLOSE" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Height="34" FontSize="18" FontWeight="Bold" Margin="945,659,0,0" Click="BtnClose_Click"/>
+    </Grid>
+</Window>

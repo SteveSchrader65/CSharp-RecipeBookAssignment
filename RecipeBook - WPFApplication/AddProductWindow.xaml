@@ -1,0 +1,21 @@
+﻿<Window x:Class="RecipeBook.AddProductWindow"
+        ResizeMode="CanMinimize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecipeBook"
+        mc:Ignorable="d"
+        Title="Add Product" Height="915" Width="715" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image x:Name="BackgroundImage" Source="Images\AddProductImage.jpg" Stretch="UniformToFill" Grid.ColumnSpan="5" Grid.RowSpan="2" Opacity="0.8"/>
+        <ListBox x:Name="lstProducts" HorizontalAlignment="Left" Height="411" VerticalAlignment="Top" Width="327" Margin="177,214,0,0" FontSize="23" BorderThickness="2"/>
+        <Label x:Name="lblTitle" Content="Products in Pantry" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="151,169,0,0" FontSize="26" FontWeight="Bold" Width="241"/>
+        <Label x:Name="lblNewIngredient" Content="Enter New Ingredient:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="72,633,0,0" FontSize="24" FontWeight="Bold"/>
+        <TextBox x:Name="txtNewIngredient" HorizontalAlignment="Left" Height="35" TextWrapping="Wrap" VerticalAlignment="Top" Width="408" Margin="96,675,0,0" FontSize="22" BorderThickness="2" AcceptsReturn="True" AcceptsTab="True" ToolTip="Enter name of new Ingredient"/>
+        <Button x:Name="btnAddToList" Content="Add" HorizontalAlignment="Left" VerticalAlignment="Top" Width="119" Margin="540,675,0,0" Height="35" FontSize="20" FontWeight="Bold" Background="#FF52E820" Click="BtnAddToList_Click"/>
+        <Label x:Name="lblErrorMessage" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="132,735,0,0" FontSize="28" Foreground="#FFFF1D00" FontWeight="Bold" Width="424" Visibility="Hidden"/>
+        <Label x:Name="lblSuccessMessage" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="132,735,0,0" FontSize="28" Foreground="#FF23BD23" FontWeight="Bold" Width="424" Visibility="Hidden"/>
+        <Button x:Name="btnClose" Content="CLOSE" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Margin="579,827,0,0" Height="34" FontSize="18" FontWeight="Bold" Click="BtnClose_Click"/>
+    </Grid>
+</Window>

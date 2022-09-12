@@ -1,0 +1,377 @@
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - WPF Application\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assessment1\RecipeBook - verStern\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\AddProductWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\AddRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\DeleteRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\ViewRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\AddProductWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\AddRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\DeleteRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\ViewRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\AddProductWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\AddRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\DeleteRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\ViewRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\AddProductWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\AddRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\DeleteRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\ViewRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\VersionBackUps\RecipeBook - a (preDataGrid ver2)\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\AddProductWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\AddRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\DeleteRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\ViewRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\AddProductWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\AddRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\DeleteRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\ViewRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - 170521a FUCK!!\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\AddProductWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\AddRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\DeleteRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\ViewRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\AddProductWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\AddRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\DeleteRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\ViewRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - FIIK !!\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\bin\Debug\RecipeBook.exe.config
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\bin\Debug\RecipeBook.exe
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\bin\Debug\RecipeBook.pdb
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\bin\Debug\Syncfusion.Tools.WPF.dll
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\bin\Debug\Syncfusion.Tools.WPF.xml
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\AddProductWindow.g.cs
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\AddRecipeWindow.g.cs
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\DeleteRecipeWindow.g.cs
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\MainWindow.g.cs
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\ViewRecipeWindow.g.cs
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\App.g.cs
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\RecipeBook_MarkupCompile.cache
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\RecipeBook_MarkupCompile.lref
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\AddProductWindow.baml
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\AddRecipeWindow.baml
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\DeleteRecipeWindow.baml
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\MainWindow.baml
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\ViewRecipeWindow.baml
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\RecipeBook.g.resources
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\RecipeBook.Properties.Resources.resources
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\RecipeBook.csproj.CopyComplete
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\RecipeBook.exe
+C:\Users\Steve\Desktop\RecipeBook - 180521c Post-Stern Visit\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\bin\Debug\Syncfusion.Licensing.dll
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\bin\Debug\Syncfusion.Tools.WPF.dll
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\bin\Debug\Syncfusion.Tools.WPF.xml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\AddProductWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\AddRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\DeleteRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\ViewRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\AddProductWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\AddRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\DeleteRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\ViewRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\RecipeBook.csproj.CopyComplete
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusionVersion\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\bin\Debug\Syncfusion.Licensing.dll
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\bin\Debug\Syncfusion.Tools.WPF.dll
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\bin\Debug\Syncfusion.Tools.WPF.xml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\AddProductWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\AddRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\DeleteRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\ViewRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\AddProductWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\AddRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\DeleteRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\ViewRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\RecipeBook.csproj.CopyComplete
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook - SyncFusion Version\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\bin\Debug\Syncfusion.Licensing.dll
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\bin\Debug\Syncfusion.Tools.WPF.dll
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\bin\Debug\Syncfusion.Tools.WPF.xml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\AddProductWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\AddRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\DeleteRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\ViewRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\AddProductWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\AddRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\DeleteRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\ViewRecipeWindow.baml
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\RecipeBook.csproj.CopyComplete
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\Assignment1\RecipeBook\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Licensing.dll
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Tools.WPF.dll
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Tools.WPF.xml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\AddProductWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\AddRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\DeleteRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\ViewRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\AddProductWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\AddRecipeWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\DeleteRecipeWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\ViewRecipeWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.CopyComplete
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Licensing.dll
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Tools.WPF.dll
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Tools.WPF.xml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\AddProductWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\AddRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\DeleteRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\ViewRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\AddProductWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\AddRecipeWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\DeleteRecipeWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\ViewRecipeWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.CopyComplete
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\RecipeBookAssignment\PriorToChange\RecipeBook - WPFApplication\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\bin\Debug\RecipeBook.exe.config
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\bin\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\bin\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\bin\Debug\Syncfusion.Licensing.dll
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\bin\Debug\Syncfusion.Tools.WPF.dll
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\bin\Debug\Syncfusion.Tools.WPF.xml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\RecipeBook.csprojAssemblyReference.cache
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\AddProductWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\AddRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\DeleteRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\MainWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\ViewRecipeWindow.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\App.g.cs
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\AddProductWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\AddRecipeWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\DeleteRecipeWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\MainWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\ViewRecipeWindow.baml
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\RecipeBook.g.resources
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\RecipeBook.csproj.CopyComplete
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\RecipeBook.exe
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplicationVer3.0\obj\Debug\RecipeBook.pdb
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.AssemblyReference.cache
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\RecipeBook.exe.manifest
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\RecipeBook.application
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.exe.manifest
+D:\TAFE\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.application
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\RecipeBook.exe.config
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\RecipeBook.exe.manifest
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\RecipeBook.application
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\RecipeBook.exe
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\RecipeBook.pdb
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Licensing.dll
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Tools.WPF.dll
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\bin\Debug\Syncfusion.Tools.WPF.xml
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.AssemblyReference.cache
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\AddProductWindow.g.cs
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\AddRecipeWindow.g.cs
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\DeleteRecipeWindow.g.cs
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\MainWindow.g.cs
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\ViewRecipeWindow.g.cs
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\App.g.cs
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook_MarkupCompile.cache
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook_MarkupCompile.lref
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\AddProductWindow.baml
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\AddRecipeWindow.baml
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\DeleteRecipeWindow.baml
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\MainWindow.baml
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\ViewRecipeWindow.baml
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.g.resources
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.Properties.Resources.resources
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.GenerateResource.cache
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.exe.manifest
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.application
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.exe
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.pdb
+D:\TAFE\2021 (Diploma)\IntermediateC#\RecipeBookAssignment\RecipeBook - WPFApplication\obj\Debug\RecipeBook.csproj.SuggestedBindingRedirects.cache
